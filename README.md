@@ -43,3 +43,15 @@ Voice/Speech:
 https://youtu.be/zg3Ouup_09o
 
 
+## Useful tools for Ml/DL
+
+#### Scikit Learn: Machine Learning
+https://scikit-learn.org/stable/
+
+#### Tensorflow : Deep Learning
+https://www.tensorflow.org/
+
+#### Keras: High-level API for Deep Learning
+https://keras.io/
+
+
