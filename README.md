@@ -60,3 +60,9 @@ https://www.tensorflow.org/
 https://keras.io/
 
 
+## Data Science
+https://www.ibm.com/in-en/analytics/data-science?utm_content=SRCWW&p1=Search&p4=43700052658068395&p5=e&gclid=Cj0KCQiA2ZCOBhDiARIsAMRfv9KXHeCeswiTQVqxKBdQfZGcbq8T119od2l6sOp3zf06s0MnVG2_EYQaAqXnEALw_wcB&gclsrc=aw.ds
+
+Data Science Technology Stack:
+https://hevodata.com/learn/building-a-data-science-tech-stack/
+
