@@ -23,13 +23,18 @@ Share your details:
 https://www.youtube.com/watch?app=desktop&v=NrmMk1Myrxc
 
 ### AI in Robotics
-Interview with Sofia: https://www.youtube.com/watch?v=78-1MlkxyqI 
+Sophia:
+https://www.hansonrobotics.com/sophia/
 
-Web-based Applications
+An interview with Sophia: 
+https://www.youtube.com/watch?v=78-1MlkxyqI 
 
+
+### Web-based Applications
 Drawing Bot: https://drawingbot.azurewebsites.net
 
-Smart Lighting: LUIS:
+### Smart Lighting: 
+LUIS:
 https://aidemos.microsoft.com/luis/demo
 
 
