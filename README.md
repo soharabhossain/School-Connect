@@ -43,7 +43,7 @@ Voice/Speech:
 https://youtu.be/zg3Ouup_09o
 
 
-## Useful tools for ML/DL
+## Useful open-source tools/libraries for ML/DL
 
 #### Scikit Learn: Machine Learning
 https://scikit-learn.org/stable/
