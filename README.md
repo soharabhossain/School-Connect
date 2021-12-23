@@ -29,7 +29,8 @@ Web-based Applications
 
 Drawing Bot: https://drawingbot.azurewebsites.net
 
-Smart Lighting: LUIS
+Smart Lighting: LUIS:
+https://aidemos.microsoft.com/luis/demo
 
 
 ## AI & Creativity
